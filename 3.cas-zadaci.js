@@ -20,6 +20,7 @@ for (i = 1; i < nekiNiz.length; i++) {
 		najveciBroj = nekiNiz[i];
 	}
 }
+console.log(nekiNiz);
 console.log(najveciBroj);
 console.log("-----------------");
 
